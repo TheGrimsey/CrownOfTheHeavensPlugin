@@ -1,0 +1,5 @@
+name: Crown-of-the-Heavens
+version: 1.0
+author: TheGrimsey
+main: net.thegrimsey.crownoftheheavens.CrownOfTheHeavens
+api-version: 1.16

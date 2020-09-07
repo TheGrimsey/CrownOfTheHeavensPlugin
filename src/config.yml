@@ -1,0 +1,18 @@
+crown:
+    name: "§4§lThe Nether Crown"
+    lore:
+        - "§4Whoever wears this crown shall wield power unimaginable."
+        - "§4§oBut all power comes at a price..."
+    health: 20
+    attack-damage: 2
+    attack-knockback: 2
+    resist-knockback: 0.5
+    movementspeed: -0.02
+    error-eating: "§5You can't eat food while under the effect of the crown."
+
+artifact:
+    picked-up: "§d★ {player} now wields {artifact}§d. ★"
+    dropped: "§5☆ {player} has DROPPED {artifact}§5. ☆"
+    died: "§5☆ {player} has DIED and DROPPED {artifact}§5. ☆"
+    logged-out: "§5☆ {player} has LOGGED out and DROPPED {artifact}§5. ☆"
+    returned: "§5◆ {artifact}§5 has RETURNED to it's altar. ◆"
